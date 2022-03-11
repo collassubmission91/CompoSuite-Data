@@ -1,0 +1,2 @@
+AverageEpRet	StdEpRet	MaxEpRet	MinEpRet	AverageSuccess	StdSuccess	EpLen	StepsAtGoal
+134.42416	114.770004	301.56543	34.769783	0.4	0.48989797	500.0	79.4
