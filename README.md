@@ -1,1 +1,1 @@
-# Composuite-Data -Anonymous Submission #91 to Conference on Lifelong Learning Agents
+The final training and evaluation data of the CompoSuite paper is now available at [https://github.com/Lifelong-ML/CompoSuite-Data](https://github.com/Lifelong-ML/CompoSuite-Data). In the interest of transparency, the version of the data that was originally submitted to CoLLAs 2022 is preserved in the CoLLAs-22-submission branch. **THIS REPOSITORY IS NOT ACTIVELY MONITORED OR MAINTAINED.**
